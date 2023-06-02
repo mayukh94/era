@@ -46,6 +46,11 @@ The main goal of this codebase is to develop a robust system that achieves high 
     4. Instantiates the model defined in model.py and trains+tests the model (by utilising the train/test functions defined in the utility file) for 20 epochs while ensuring proper backpropagation.
     5. Finally it uses the plotting function defined in the utility file to plot the loss and accuracy of the model.
 
+## 🙋 Summary
+
+Here's a generated summary of the model for an input of `(1, 28, 28)`
+
+![Summary](/summary.png)
 
 ## 🙋 Support
 
